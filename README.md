@@ -7,7 +7,7 @@ A python tool to lookup if a given pincode exists or not by web scraping and fin
   4. xlrd - To read microsoft excel.
   5. xlwt - To write to an excel file.
 
-## Set pincodes excel sheet path
+## Set input file path
    `loc = ("pincode.xlsx")`
 
 ## Set URL where pincode lookup has to be done
