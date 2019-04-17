@@ -1,6 +1,6 @@
 A python tool to lookup if a given pincode exists or not by web scraping and finally mapping state & city data to the output sheet.
 
-# Python Libraries used
+# Python packages used
   1. pandas -  To scrap urls
   2. BeautifulSoup - To scrap urls in case Pandas fail to output required data.
   3. requests - To make GET calls to urls.
